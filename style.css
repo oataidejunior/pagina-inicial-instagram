@@ -64,6 +64,12 @@ body {
     height: 3rem;
 }
 
+.instagram-logo:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
 .profile-photo {
     display: flex;
     justify-content: center;
@@ -81,6 +87,12 @@ body {
     color: #ffffff;
     padding: 8px;
     border-radius: 4px;
+}
+
+.instagram-login:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
 }
 
 .instagram-logout {
@@ -117,6 +129,12 @@ body {
     height: 3rem;
     width: 10rem;
     background-size: cover;
+}
+
+.app-download:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
 }
 
 .app-download:nth-child(1) {
